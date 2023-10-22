@@ -1,0 +1,13 @@
+Id_Producto,Nombre,Cantidad_Disponible,Cantidad_Vendidos,Estado,Precio,Categor�a,ml,Tipo,Gramos,Sabor,Tama�o
+12230,Pepsi,20,20,Disponible,12,Bebida,500,Carbonatada,,,
+12231,Papas Fritas,20,24,Disponible,30,Snack,,,400,Queso,Individual
+12232,Flan,15,15,Disponible,15,Postre,,,250,Vainilla,Individual
+12233,Horchata,12,36,Disponible,5.5,Bebida,450,Natural,,,
+12234,Papalinas,20,21,Disponible,22,Snack, , ,400,Limon,Individual
+12235,Pastel de chocolate,10,25,Disponible,125,Postre, , , ,Chocolate,Familiar
+12236,Tamarindo,12,56,Disponible,22.5,Bebida,450,Natural,,,
+12237,Tortrix,20,11,Disponible,5.5,Snack, , ,250,Barbacoa,Individual
+12238,Brownie,17,25,Disponible,12,Postre, , , ,Chocolate,Individual
+12239,Ensalada de Fruta,5,35,Disponible,22,Snack, , ,500,Natural,Individual
+12240,Helado de Vainilla,15,12,Disponible,15.5,Postre, , , ,Vainilla,Individual
+12241,Pastel de Fresa,10,23,Disponible,11,Postre, , , ,Fresa,Individual
